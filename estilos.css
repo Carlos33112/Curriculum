@@ -1,0 +1,53 @@
+body{
+    background-color:#74b49b;
+    color: rgb(15, 14, 14);
+}
+td {
+    padding: 0 20px;
+}
+
+li {
+    padding: 5px;
+}
+div{
+    background-color: white;
+    border: 1px solid black;
+    padding: 12px;
+    width: 70%;
+    margin: 0% auto;
+}
+fieldset{
+    margin-bottom: 15px ;
+}
+legend{
+    background-color:#74b49b; 
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+img{
+    border-radius: 100%;
+      margin-bottom: 12px;  
+      margin-right: 50px;
+      float: left;
+}
+span{
+    font-weight: bold;
+    
+}
+
+section{
+    background-color: #74b49b;
+}
+.fuente{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Tituló{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+p{
+    font-family: 'Roboto', sans-serif;
+}
